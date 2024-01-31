@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">People call me Bobby too</h3>
 
-- 🔭 I’m currently studying at ETS Montréal (Master in software engineering) **
+- 🔭 I’m currently studying at ETS Montréal (Master in software engineering)
 
 - 📍 Location: **Montréal 🇨🇦**
 
