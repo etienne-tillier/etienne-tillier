@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">People call me Bobby too</h3>
 
-- 🔭 I’m currently working at **Lizard Global in Malaysia 🇲🇾**
+- 🔭 I’m currently studying at ETS Montréal (Master in software engineering) **
 
-- 📍 Location: **Kuala Lumpur**
+- 📍 Location: **Montréal 🇨🇦**
 
 - 🎓 Study: **Polytech Montpellier**
 
 - ✨ Interests: **Photography, Sport**
 
-- 📅 Age: **22**
+- 📅 Age: **23**
 
 
 <div style="display: flex; justify-content: space-between; max-width: 600px">
