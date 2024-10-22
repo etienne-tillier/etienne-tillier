@@ -83,6 +83,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etienne-tillier&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="etienne-tillier" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etienne-tillier&show_icons=true&theme=tokyonight&locale=en" alt="etienne-tillier" /></p>
