@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">People call me Bobby too</h3>
 
-- 🔭 I’m currently studying at ETS Montréal (Master in software engineering)
+- 🔭 Backend Developer at National Bank of Canada
 
 - 📍 Location: **Montréal 🇨🇦**
 
-- 🎓 Study: **Polytech Montpellier**
+- 🎓 Software Engineer
 
 - ✨ Interests: **Photography, Sport**
 
-- 📅 Age: **23**
+- 📅 Age: **24**
 
 
 <div style="display: flex; justify-content: space-between; max-width: 600px">
